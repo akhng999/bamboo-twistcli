@@ -1,1 +1,1 @@
-# jenkins-twistcli
+# bamboo-twistcli
